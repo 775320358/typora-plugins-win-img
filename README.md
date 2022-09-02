@@ -1,2 +1,2 @@
 # typora-plugins-win-img
-markdown的图床
+自用markdown图床
